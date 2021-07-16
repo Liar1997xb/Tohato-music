@@ -4,6 +4,8 @@
 
 后端接口：https://github.com/Binaryify/NeteaseCloudMusicApi
 
+[源码地址](https://gitee.com/liar1997/Tohato-music)
+
 ## 项目截图
 
 ### 推荐页
